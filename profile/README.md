@@ -5,6 +5,8 @@
 <h3 align="center">📖 Wiki: http://mct-wiki.tantrum.org/</h3>
 
 <h3 align="center"<img src="https://komarev.com/ghpvc/?username=mctantrum&label=Profile%20views&color=0e75b6&style=flat" alt="mctantrum" /></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mctantrum&label=Profile%20views&color=0e75b6&style=flat" alt="mctantrum" /> </p>
+
 <!--
 
 **Here are some ideas to get you started:**
